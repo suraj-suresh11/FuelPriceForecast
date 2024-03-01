@@ -12,7 +12,7 @@ This Power BI dashboard project visualizes historical fuel price data from data.
 ## Dashboard Overview
 
 ### How to Use
-1) Data Preparation:
+1)Data Preparation:
 Download the historical fuel price data from data.gov.uk and save it as a CSV file.
 Open Power BI Desktop and import the CSV file as the data source.
 
@@ -29,7 +29,7 @@ Use forecasting features in Power BI to predict petrol and diesel prices for the
 Implement forecasting with and without VAT to provide insights into price trends.
 Interactivity:
 
-5) Utilize slicers to allow users to filter data based on parameters like date range, fuel type, etc.
+5)Utilize slicers to allow users to filter data based on parameters like date range, fuel type, etc.
 
 ## Dependencies
 + Power BI Desktop
